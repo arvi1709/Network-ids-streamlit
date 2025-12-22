@@ -316,7 +316,7 @@ def about_page():
     """)
 
     st.markdown("""
-    **Developed by:** Anshuman(231302042), Deepak(231302069), Arvind(231302109)   
+    **Developed by:** Arvind(231302109)   
     **Role:** B.Tech CSE (AI & ML) Student  
     **Use Case:** Network Security / Intrusion Detection System Project
     """)
